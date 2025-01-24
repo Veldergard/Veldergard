@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi 🌎, I'm Artur. Android Developer 🌱
 <div id="header" >
   <img src="https://media.giphy.com/media/n4FpwV0JxhYjtBjn4U/giphy.gif"  />
