@@ -1,4 +1,4 @@
-# Hi 🌎, I'm Artur. Android Developer 🌱
+# Hi 🌎, I'm Artur. Android Developer
 <div id="header" >
   <img src="https://media.tenor.com/G5YA-Jm1pG4AAAAi/peeposhy-pepe-the-frog.gif"  />
 </div>
