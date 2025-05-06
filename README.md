@@ -14,14 +14,6 @@
   </a>
 </div>
 
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/SofiazaR/icons/blob/main/figma.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-</div>
-
-
-
 ### :fire: My Stats :
 <div>
   
