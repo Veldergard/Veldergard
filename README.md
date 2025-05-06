@@ -9,7 +9,7 @@
   <a href="https://veldergard.notion.site/185c027fb77780df9989e6f77cbfc527">
   <img src="https://img.shields.io/badge/Resume-orange?logo=notion&logoColor=white" alt="Notion Badge"/>
   </a>
-   <a href="https://t.me/olaurine">
+   <a href="https://t.me/l9ap0">
   <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
